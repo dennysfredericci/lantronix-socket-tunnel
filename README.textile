@@ -1,6 +1,6 @@
 h1. Lantronix Socket Client
 
-A interesting blog post about this project  "http://blog.fredericci.com.br/?p=597
+A interesting blog post:http://blog.fredericci.com.br/?p=597 about this project
 
 A simple socket client to handle connections with lantronix UDS1100.
 
