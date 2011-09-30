@@ -1,12 +1,7 @@
 h1. Lantronix Socket Client
 
-A interesting "blog post":http://blog.fredericci.com.br/?p=597 about this project
-
 A simple socket client to handle connections with lantronix UDS1100.
 
 You can improve the LantonixFrameDecoder to handler your delimiter, if your frame is complete the ClientHandler is called with the message.
 
-
-
-
-http://blog.fredericci.com.br
+A interesting "blog post":http://blog.fredericci.com.br/?p=597 about this project
