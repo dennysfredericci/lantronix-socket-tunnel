@@ -1,0 +1,8 @@
+## Lantronix Socket Client
+
+A simple socket client to handle connections with lantronix UDS1100.
+
+You can improve the LantonixFrameDecoder to handler your delimiter, if your frame is complete the ClientHandler is called with the message.
+
+
+http://blog.fredericci.com.br
